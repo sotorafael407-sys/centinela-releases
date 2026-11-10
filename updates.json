@@ -1,0 +1,22 @@
+{
+  "full": {
+    "edition": "full",
+    "version": "2.0.0",
+    "url": "https://github.com/sotorafael407-sys/centinela-releases/releases/download/v2.0.0/Centinela.exe",
+    "sha256": "14ae0f95dc6ee3f9a465ca824b79413fe1a1e286228c3f29c281091245af0389",
+    "mandatory": false,
+    "min_version": "",
+    "notes": "auto-updater + mejoras de compra",
+    "published_at": 1763000000.0
+  },
+  "mesa": {
+    "edition": "mesa",
+    "version": "2.0.0",
+    "url": "",
+    "sha256": "",
+    "mandatory": false,
+    "min_version": "",
+    "notes": "",
+    "published_at": 0
+  }
+}
